@@ -1,0 +1,2 @@
+# Reads song info (artist, album, title, track number) from music files.
+mutagen>=1.47
