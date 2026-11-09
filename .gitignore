@@ -1,0 +1,9 @@
+# Keep the input and output folders on GitHub, but not the files you put in them
+# (your own photos, music, documents and so on stay on your computer).
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+
+# Python's cache files
+__pycache__/
